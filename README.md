@@ -4,7 +4,7 @@ Hey guys 👋
 I'm writing my multiplayer game on Godot. 
 And since I haven't found a suitable solution for interpolating motion on the client side, I wrote my own script.
 This script interpolates the position, rotation and scale of an object.
--
+
 How to use it?
 1) Add a new Node3D node to your character instead of the MultiplayerSynchronizer node.
 2) Add my script to this node.
